@@ -1,0 +1,11 @@
+bin/*
+env/*
+obj/*
+src/*
+/*.sln
+
+!/*.csproj
+!/src/*.cs
+
+!/bin/Debug/*.config
+
